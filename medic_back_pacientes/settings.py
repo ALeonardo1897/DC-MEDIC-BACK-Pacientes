@@ -10,11 +10,11 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/3.0/ref/settings/
 """
 
-import os
+import os,environ
 from datetime import timedelta
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-
+env = environ.Env()
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/3.0/howto/deployment/checklist/
@@ -93,10 +93,10 @@ WSGI_APPLICATION = 'medic_back_pacientes.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'medic_database',
-        'USER' : 'postgres',
-        'PASSWORD': 'admin',
-        'HOST': 'localhost',
+        'NAME': env.str('DATABASE_NAME', default='medic_database'),
+        'USER' : env.str('DATABASE_USER', default='postgres'),
+        'PASSWORD': env.str('DATABASE_PASS', default='admin'),
+        'HOST':  env.str('DATABASE_HOST', default='localhost'),
         'PORT': '5432'
     }
 }

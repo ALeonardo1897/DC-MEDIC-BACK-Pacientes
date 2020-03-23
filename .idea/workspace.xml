@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88194499-c1b7-4484-9a38-26dd8648a9d2" name="Default Changelist" comment="" />
+    <list default="true" id="88194499-c1b7-4484-9a38-26dd8648a9d2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +21,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZOoGXrjPpXAg6mcgG1D2LS3Jre" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -25,14 +29,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/security" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Leonardo\Documents\Leonardo\Coding\Python\DRF\medic_back - Microservicios\medic_back_pacientes" />
       <recent name="C:\Users\Leonardo\Documents\Leonardo\Coding\Python\DRF\medic_back - Microservicios\medic_back_pacientes\security" />
       <recent name="C:\Users\Leonardo\Documents\Leonardo\Coding\Python\DRF\medic_back - Microservicios\medic_back_pacientes\usuarios" />
       <recent name="C:\Users\Leonardo\Documents\Leonardo\Coding\Python\DRF\medic_back - Microservicios\medic_back_pacientes\medic_back_pacientes" />
-      <recent name="C:\Users\Leonardo\Documents\Leonardo\Coding\Python\DRF\medic_back - Microservicios\medic_back_pacientes" />
     </key>
   </component>
   <component name="SvnConfiguration">
