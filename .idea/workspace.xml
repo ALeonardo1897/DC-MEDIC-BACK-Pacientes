@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88194499-c1b7-4484-9a38-26dd8648a9d2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/medic_back_pacientes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/medic_back_pacientes.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medic_back_pacientes/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/medic_back_pacientes/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medic_back_pacientes/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/medic_back_pacientes/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +33,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -51,6 +55,20 @@
       <updated>1584719405638</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="490" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1585690236568">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="490" y="154" width="424" height="484" key="FileChooserDialogImpl/49.27.1317.741@49.27.1317.741" timestamp="1585690236568" />
+    <state x="211" y="31" key="SettingsEditor" timestamp="1585758166177">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="211" y="31" key="SettingsEditor/49.27.1317.741@49.27.1317.741" timestamp="1585758166177" />
+    <state x="390" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1585688245733">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="390" y="224" key="com.intellij.ide.util.TipDialog/49.27.1317.741@49.27.1317.741" timestamp="1585688245733" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

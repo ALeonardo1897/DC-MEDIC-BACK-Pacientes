@@ -16,5 +16,5 @@ routers = routers.DefaultRouter()
 routers.register('pacientes', PacienteView)
 
 urlpatterns = [
-    path('api/', include(routers.urls)),
+    path('', include(routers.urls)),
 ]
